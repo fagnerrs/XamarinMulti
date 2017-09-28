@@ -1,8 +1,0 @@
-/Users/fagneroliveira/Projects/hello_vsformac/hello_vsformac.rest.api/hello_vsformac.Infrastructure/bin/Debug/netcoreapp2.0/hello_vsformac.Infrastructure.deps.json
-/Users/fagneroliveira/Projects/hello_vsformac/hello_vsformac.rest.api/hello_vsformac.Infrastructure/bin/Debug/netcoreapp2.0/hello_vsformac.Infrastructure.dll
-/Users/fagneroliveira/Projects/hello_vsformac/hello_vsformac.rest.api/hello_vsformac.Infrastructure/bin/Debug/netcoreapp2.0/hello_vsformac.Infrastructure.pdb
-/Users/fagneroliveira/Projects/hello_vsformac/hello_vsformac.rest.api/hello_vsformac.Infrastructure/obj/Debug/netcoreapp2.0/hello_vsformac.Infrastructure.csproj.CoreCompileInputs.cache
-/Users/fagneroliveira/Projects/hello_vsformac/hello_vsformac.rest.api/hello_vsformac.Infrastructure/obj/Debug/netcoreapp2.0/hello_vsformac.Infrastructure.AssemblyInfoInputs.cache
-/Users/fagneroliveira/Projects/hello_vsformac/hello_vsformac.rest.api/hello_vsformac.Infrastructure/obj/Debug/netcoreapp2.0/hello_vsformac.Infrastructure.AssemblyInfo.cs
-/Users/fagneroliveira/Projects/hello_vsformac/hello_vsformac.rest.api/hello_vsformac.Infrastructure/obj/Debug/netcoreapp2.0/hello_vsformac.Infrastructure.dll
-/Users/fagneroliveira/Projects/hello_vsformac/hello_vsformac.rest.api/hello_vsformac.Infrastructure/obj/Debug/netcoreapp2.0/hello_vsformac.Infrastructure.pdb
