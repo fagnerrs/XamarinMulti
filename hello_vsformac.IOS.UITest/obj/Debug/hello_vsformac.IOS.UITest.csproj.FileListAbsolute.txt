@@ -1,0 +1,10 @@
+/Users/fagneroliveira/Projects/hello_vsformac/hello_vsformac.IOS.UITest/bin/Debug/hello_vsformac.IOS.UITest.dll
+/Users/fagneroliveira/Projects/hello_vsformac/hello_vsformac.IOS.UITest/bin/Debug/hello_vsformac.IOS.UITest.pdb
+/Users/fagneroliveira/Projects/hello_vsformac/hello_vsformac.IOS.UITest/bin/Debug/nunit.framework.dll
+/Users/fagneroliveira/Projects/hello_vsformac/hello_vsformac.IOS.UITest/bin/Debug/Xamarin.UITest.dll
+/Users/fagneroliveira/Projects/hello_vsformac/hello_vsformac.IOS.UITest/bin/Debug/nunit.framework.xml
+/Users/fagneroliveira/Projects/hello_vsformac/hello_vsformac.IOS.UITest/bin/Debug/Xamarin.UITest.xml
+/Users/fagneroliveira/Projects/hello_vsformac/hello_vsformac.IOS.UITest/obj/Debug/hello_vsformac.IOS.UITest.csprojResolveAssemblyReference.cache
+/Users/fagneroliveira/Projects/hello_vsformac/hello_vsformac.IOS.UITest/obj/Debug/hello_vsformac.IOS.UITest.csproj.CoreCompileInputs.cache
+/Users/fagneroliveira/Projects/hello_vsformac/hello_vsformac.IOS.UITest/obj/Debug/hello_vsformac.IOS.UITest.dll
+/Users/fagneroliveira/Projects/hello_vsformac/hello_vsformac.IOS.UITest/obj/Debug/hello_vsformac.IOS.UITest.pdb
