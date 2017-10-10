@@ -8,4 +8,7 @@
     <ProjectReference Include="..\Fwit.Genone.Domain\Fwit.Genone.Domain.csproj" />
     <ProjectReference Include="..\Fwit.Genone.Infrastructure\Fwit.Genone.Infrastructure.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+  </ItemGroup>
 </Project>

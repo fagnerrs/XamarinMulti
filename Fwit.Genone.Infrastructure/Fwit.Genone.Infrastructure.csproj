@@ -7,4 +7,14 @@
   <ItemGroup>
     <ProjectReference Include="..\Fwit.Genone.Domain\Fwit.Genone.Domain.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repository\" />
+    <Folder Include="Database\" />
+    <Folder Include="Database\Context\" />
+    <Folder Include="Identity\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNet.Identity.Core" Version="2.2.1" />
+  </ItemGroup>
 </Project>

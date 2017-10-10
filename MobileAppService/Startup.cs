@@ -1,16 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Fwit.Genone.MobileAppService.StartupConfig;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
-
 using Swashbuckle.AspNetCore.Swagger;
-
-using Fwit.Genone.Models;
 
 namespace Fwit.Genone.MobileAppService
 {
@@ -33,7 +27,9 @@ namespace Fwit.Genone.MobileAppService
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
-            services.AddSingleton<IItemRepository, ItemRepository>();
+            services.SetEntityFramework();
+            services.SetReferences();
+            services.SetIdentityConfig();
 
             services.AddSwaggerGen(c =>
             {

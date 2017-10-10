@@ -11,11 +11,16 @@
     <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="1.1.2" />
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="1.0.0-rc3" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="1.0.0-rc3" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="2.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="2.0.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Fwit.Genone.Infrastructure\Fwit.Genone.Infrastructure.csproj" />
     <ProjectReference Include="..\Fwit.Genone.Domain\Fwit.Genone.Domain.csproj" />
     <ProjectReference Include="..\Fwit.Genone.ApplicationService\Fwit.Genone.ApplicationService.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="StartupConfig\" />
   </ItemGroup>
 </Project>

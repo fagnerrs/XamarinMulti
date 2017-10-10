@@ -17,7 +17,7 @@ namespace Fwit.Genone.Domain.Services
         public async Task Start(Guid personId, string message)
         {
             // get person
-            var person = new Person();
+            var person = new Person(0,"");
 
             await pushRepository.Send(person, message, "start");
             
@@ -25,7 +25,7 @@ namespace Fwit.Genone.Domain.Services
 
 		public async Task Stop(Guid personId)
 		{
-			var person = new Person();
+			var person = new Person(0, "");
 
 			await pushRepository.Send(person, string.Empty, "stop");
 		}
