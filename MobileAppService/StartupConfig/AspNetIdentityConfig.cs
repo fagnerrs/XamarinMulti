@@ -11,6 +11,9 @@ namespace Fwit.Genone.MobileAppService.StartupConfig
             services.AddIdentity<IdentityUser, IdentityRole>()
             .AddEntityFrameworkStores<GenoneDbContext>()
             .AddDefaultTokenProviders();
+
+
+
         }
     }
 }
