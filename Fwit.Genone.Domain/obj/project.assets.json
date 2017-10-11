@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "targets": {
     ".NETStandard,Version=v2.0": {
       "Microsoft.NETCore.Platforms/1.1.0": {
@@ -177,23 +177,44 @@
     ]
   },
   "packageFolders": {
-    "/Users/fagneroliveira/.nuget/packages/": {}
+    "C:\\Users\\Fagner\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "/Users/fagneroliveira/Projects/XamarinMulti/Fwit.Genone.Domain/Fwit.Genone.Domain.csproj",
+      "projectUniqueName": "C:\\temp\\XamarinMulti\\Fwit.Genone.Domain\\Fwit.Genone.Domain.csproj",
       "projectName": "Fwit.Genone.Domain",
-      "projectPath": "/Users/fagneroliveira/Projects/XamarinMulti/Fwit.Genone.Domain/Fwit.Genone.Domain.csproj",
-      "outputPath": "/Users/fagneroliveira/Projects/XamarinMulti/Fwit.Genone.Domain/obj",
+      "projectPath": "C:\\temp\\XamarinMulti\\Fwit.Genone.Domain\\Fwit.Genone.Domain.csproj",
+      "packagesPath": "C:\\Users\\Fagner\\.nuget\\packages\\",
+      "outputPath": "C:\\temp\\XamarinMulti\\Fwit.Genone.Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Fagner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://www.nuget.org/api/v2/": {}
+      },
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {
@@ -202,12 +223,15 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0"
+            "version": "2.0.0",
+            "autoReferenced": true
           }
         },
         "imports": [
           "net461"
-        ]
+        ],
+        "assetTargetFallback": true,
+        "warn": true
       }
     }
   }

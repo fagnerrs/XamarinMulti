@@ -20,3 +20,14 @@
 /Users/fagneroliveira/Projects/XamarinMulti/Fwit.Genone.Infrastructure/obj/Debug/netstandard2.0/Fwit.Genone.Infrastructure.AssemblyInfo.cs
 /Users/fagneroliveira/Projects/XamarinMulti/Fwit.Genone.Infrastructure/obj/Debug/netstandard2.0/Fwit.Genone.Infrastructure.dll
 /Users/fagneroliveira/Projects/XamarinMulti/Fwit.Genone.Infrastructure/obj/Debug/netstandard2.0/Fwit.Genone.Infrastructure.pdb
+C:\temp\XamarinMulti\Fwit.Genone.Infrastructure\bin\Debug\netstandard2.0\Fwit.Genone.Infrastructure.deps.json
+C:\temp\XamarinMulti\Fwit.Genone.Infrastructure\bin\Debug\netstandard2.0\Fwit.Genone.Infrastructure.dll
+C:\temp\XamarinMulti\Fwit.Genone.Infrastructure\bin\Debug\netstandard2.0\Fwit.Genone.Infrastructure.pdb
+C:\temp\XamarinMulti\Fwit.Genone.Infrastructure\bin\Debug\netstandard2.0\Fwit.Genone.Domain.dll
+C:\temp\XamarinMulti\Fwit.Genone.Infrastructure\bin\Debug\netstandard2.0\Fwit.Genone.Domain.pdb
+C:\temp\XamarinMulti\Fwit.Genone.Infrastructure\obj\Debug\netstandard2.0\Fwit.Genone.Infrastructure.csprojResolveAssemblyReference.cache
+C:\temp\XamarinMulti\Fwit.Genone.Infrastructure\obj\Debug\netstandard2.0\Fwit.Genone.Infrastructure.csproj.CoreCompileInputs.cache
+C:\temp\XamarinMulti\Fwit.Genone.Infrastructure\obj\Debug\netstandard2.0\Fwit.Genone.Infrastructure.AssemblyInfoInputs.cache
+C:\temp\XamarinMulti\Fwit.Genone.Infrastructure\obj\Debug\netstandard2.0\Fwit.Genone.Infrastructure.AssemblyInfo.cs
+C:\temp\XamarinMulti\Fwit.Genone.Infrastructure\obj\Debug\netstandard2.0\Fwit.Genone.Infrastructure.dll
+C:\temp\XamarinMulti\Fwit.Genone.Infrastructure\obj\Debug\netstandard2.0\Fwit.Genone.Infrastructure.pdb

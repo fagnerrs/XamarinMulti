@@ -12,10 +12,10 @@ namespace Fwit.Genone.MobileAppService.StartupConfig
     public static class IocContainer
     {
         public static void SetReferences(this IServiceCollection services){
-			services.AddSingleton<IItemRepository, ItemRepository>();
-			services.AddTransient<IPersonAppService, PersonAppService>();
-			services.AddTransient<IPersonService, PersonService>();
-			services.AddTransient<IPersonRepository, PersonRepository>();
+            services.AddSingleton<IItemRepository, ItemRepository>();
+            services.AddTransient<IPersonAppService, PersonAppService>();
+            services.AddTransient<IPersonService, PersonService>();
+            services.AddTransient<IPersonRepository, PersonRepository>();
         }
     }
 }

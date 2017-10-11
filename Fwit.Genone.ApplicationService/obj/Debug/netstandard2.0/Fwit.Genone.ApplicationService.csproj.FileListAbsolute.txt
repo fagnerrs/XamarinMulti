@@ -24,3 +24,16 @@
 /Users/fagneroliveira/Projects/XamarinMulti/Fwit.Genone.ApplicationService/obj/Debug/netstandard2.0/Fwit.Genone.ApplicationService.AssemblyInfo.cs
 /Users/fagneroliveira/Projects/XamarinMulti/Fwit.Genone.ApplicationService/obj/Debug/netstandard2.0/Fwit.Genone.ApplicationService.dll
 /Users/fagneroliveira/Projects/XamarinMulti/Fwit.Genone.ApplicationService/obj/Debug/netstandard2.0/Fwit.Genone.ApplicationService.pdb
+C:\temp\XamarinMulti\Fwit.Genone.ApplicationService\bin\Debug\netstandard2.0\Fwit.Genone.ApplicationService.deps.json
+C:\temp\XamarinMulti\Fwit.Genone.ApplicationService\bin\Debug\netstandard2.0\Fwit.Genone.ApplicationService.dll
+C:\temp\XamarinMulti\Fwit.Genone.ApplicationService\bin\Debug\netstandard2.0\Fwit.Genone.ApplicationService.pdb
+C:\temp\XamarinMulti\Fwit.Genone.ApplicationService\bin\Debug\netstandard2.0\Fwit.Genone.Domain.dll
+C:\temp\XamarinMulti\Fwit.Genone.ApplicationService\bin\Debug\netstandard2.0\Fwit.Genone.Infrastructure.dll
+C:\temp\XamarinMulti\Fwit.Genone.ApplicationService\bin\Debug\netstandard2.0\Fwit.Genone.Domain.pdb
+C:\temp\XamarinMulti\Fwit.Genone.ApplicationService\bin\Debug\netstandard2.0\Fwit.Genone.Infrastructure.pdb
+C:\temp\XamarinMulti\Fwit.Genone.ApplicationService\obj\Debug\netstandard2.0\Fwit.Genone.ApplicationService.csprojResolveAssemblyReference.cache
+C:\temp\XamarinMulti\Fwit.Genone.ApplicationService\obj\Debug\netstandard2.0\Fwit.Genone.ApplicationService.csproj.CoreCompileInputs.cache
+C:\temp\XamarinMulti\Fwit.Genone.ApplicationService\obj\Debug\netstandard2.0\Fwit.Genone.ApplicationService.AssemblyInfoInputs.cache
+C:\temp\XamarinMulti\Fwit.Genone.ApplicationService\obj\Debug\netstandard2.0\Fwit.Genone.ApplicationService.AssemblyInfo.cs
+C:\temp\XamarinMulti\Fwit.Genone.ApplicationService\obj\Debug\netstandard2.0\Fwit.Genone.ApplicationService.dll
+C:\temp\XamarinMulti\Fwit.Genone.ApplicationService\obj\Debug\netstandard2.0\Fwit.Genone.ApplicationService.pdb

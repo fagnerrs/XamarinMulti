@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "targets": {
     ".NETStandard,Version=v2.0": {
       "Microsoft.AspNet.Identity.Core/2.2.1": {
@@ -574,9 +574,6 @@
         },
         "compile": {
           "ref/netstandard1.3/System.Collections.dll": {}
-        },
-        "runtime": {
-          "lib/net45/_._": {}
         }
       },
       "System.Collections.Immutable/1.4.0": {
@@ -606,9 +603,6 @@
         },
         "compile": {
           "ref/netstandard1.3/System.Diagnostics.Debug.dll": {}
-        },
-        "runtime": {
-          "lib/net45/_._": {}
         }
       },
       "System.Diagnostics.DiagnosticSource/4.4.1": {
@@ -638,9 +632,6 @@
         },
         "compile": {
           "ref/netstandard1.5/System.Diagnostics.Tracing.dll": {}
-        },
-        "runtime": {
-          "lib/net45/_._": {}
         }
       },
       "System.Globalization/4.0.11": {
@@ -652,9 +643,6 @@
         },
         "compile": {
           "ref/netstandard1.3/_._": {}
-        },
-        "runtime": {
-          "lib/net45/_._": {}
         }
       },
       "System.Interactive.Async/3.1.1": {
@@ -680,9 +668,6 @@
         },
         "compile": {
           "ref/netstandard1.5/System.IO.dll": {}
-        },
-        "runtime": {
-          "lib/net45/_._": {}
         }
       },
       "System.Linq/4.1.0": {
@@ -775,9 +760,6 @@
         },
         "compile": {
           "ref/netstandard1.5/System.Reflection.dll": {}
-        },
-        "runtime": {
-          "lib/net45/_._": {}
         }
       },
       "System.Reflection.Emit/4.0.1": {
@@ -835,9 +817,6 @@
         },
         "compile": {
           "ref/netstandard1.0/System.Reflection.Extensions.dll": {}
-        },
-        "runtime": {
-          "lib/net45/_._": {}
         }
       },
       "System.Reflection.Primitives/4.3.0": {
@@ -849,9 +828,6 @@
         },
         "compile": {
           "ref/netstandard1.0/System.Reflection.Primitives.dll": {}
-        },
-        "runtime": {
-          "lib/net45/_._": {}
         }
       },
       "System.Reflection.TypeExtensions/4.1.0": {
@@ -878,9 +854,6 @@
         },
         "compile": {
           "ref/netstandard1.0/_._": {}
-        },
-        "runtime": {
-          "lib/net45/_._": {}
         }
       },
       "System.Runtime/4.3.0": {
@@ -891,9 +864,6 @@
         },
         "compile": {
           "ref/netstandard1.5/System.Runtime.dll": {}
-        },
-        "runtime": {
-          "lib/net45/_._": {}
         }
       },
       "System.Runtime.CompilerServices.Unsafe/4.4.0": {
@@ -914,9 +884,6 @@
         },
         "compile": {
           "ref/netstandard1.5/System.Runtime.Extensions.dll": {}
-        },
-        "runtime": {
-          "lib/net45/_._": {}
         }
       },
       "System.Security.AccessControl/4.4.0": {
@@ -970,9 +937,6 @@
         },
         "compile": {
           "ref/netstandard1.3/System.Text.Encoding.dll": {}
-        },
-        "runtime": {
-          "lib/net45/_._": {}
         }
       },
       "System.Text.Encodings.Web/4.4.0": {
@@ -1006,9 +970,6 @@
         },
         "compile": {
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
-        },
-        "runtime": {
-          "lib/net45/_._": {}
         }
       },
       "Fwit.Genone.Domain/1.0.0": {
@@ -3433,30 +3394,51 @@
     ]
   },
   "packageFolders": {
-    "/Users/fagneroliveira/.nuget/packages/": {}
+    "C:\\Users\\Fagner\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "/Users/fagneroliveira/Projects/XamarinMulti/Fwit.Genone.ApplicationService/Fwit.Genone.ApplicationService.csproj",
+      "projectUniqueName": "C:\\temp\\XamarinMulti\\Fwit.Genone.ApplicationService\\Fwit.Genone.ApplicationService.csproj",
       "projectName": "Fwit.Genone.ApplicationService",
-      "projectPath": "/Users/fagneroliveira/Projects/XamarinMulti/Fwit.Genone.ApplicationService/Fwit.Genone.ApplicationService.csproj",
-      "outputPath": "/Users/fagneroliveira/Projects/XamarinMulti/Fwit.Genone.ApplicationService/obj",
+      "projectPath": "C:\\temp\\XamarinMulti\\Fwit.Genone.ApplicationService\\Fwit.Genone.ApplicationService.csproj",
+      "packagesPath": "C:\\Users\\Fagner\\.nuget\\packages\\",
+      "outputPath": "C:\\temp\\XamarinMulti\\Fwit.Genone.ApplicationService\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Fagner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://www.nuget.org/api/v2/": {}
+      },
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/Users/fagneroliveira/Projects/XamarinMulti/Fwit.Genone.Domain/Fwit.Genone.Domain.csproj": {
-              "projectPath": "/Users/fagneroliveira/Projects/XamarinMulti/Fwit.Genone.Domain/Fwit.Genone.Domain.csproj"
+            "C:\\temp\\XamarinMulti\\Fwit.Genone.Domain\\Fwit.Genone.Domain.csproj": {
+              "projectPath": "C:\\temp\\XamarinMulti\\Fwit.Genone.Domain\\Fwit.Genone.Domain.csproj"
             },
-            "/Users/fagneroliveira/Projects/XamarinMulti/Fwit.Genone.Infrastructure/Fwit.Genone.Infrastructure.csproj": {
-              "projectPath": "/Users/fagneroliveira/Projects/XamarinMulti/Fwit.Genone.Infrastructure/Fwit.Genone.Infrastructure.csproj"
+            "C:\\temp\\XamarinMulti\\Fwit.Genone.Infrastructure\\Fwit.Genone.Infrastructure.csproj": {
+              "projectPath": "C:\\temp\\XamarinMulti\\Fwit.Genone.Infrastructure\\Fwit.Genone.Infrastructure.csproj"
             }
           }
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {
@@ -3465,13 +3447,28 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0"
+            "version": "2.0.0",
+            "autoReferenced": true
           }
         },
         "imports": [
           "net461"
-        ]
+        ],
+        "assetTargetFallback": true,
+        "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.Identity.Core 2.2.1' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.Identity.Core",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
 }

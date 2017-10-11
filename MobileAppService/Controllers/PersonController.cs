@@ -1,12 +1,11 @@
-﻿using System;
-using System.Threading.Tasks;
-using Fwit.Genone.ApplicationService.Interfaces;
+﻿using Fwit.Genone.ApplicationService.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using System.Threading.Tasks;
 
 namespace Fwit.Genone.Controllers
 {
     [Route("api/[controller]")]
-	public class PersonController : Controller
+    public class PersonController : Controller
     {
         readonly IPersonAppService personAppService;
 
@@ -19,16 +18,16 @@ namespace Fwit.Genone.Controllers
         [Route("{id}/coordinate/{lat}/{lon}")]
         public async Task SaveCoordinate(long personId, double lat, double lon)
         {
-            await personAppService.AddCoordinate(personId, lat, lon);    
+            await personAppService.AddCoordinate(personId, lat, lon);
         }
 
         [HttpGet]
-		[Route("{id}/friends")]
+        [Route("{id}/friends")]
         public async Task<ActionResult> GetFriends(long id)
-		{
+        {
             var friends = await personAppService.GetFriends(id);
 
             return Ok(friends);
-		}
-	}
+        }
+    }
 }

@@ -2,10 +2,12 @@
 *~
 
 # build
-[Oo]bj/Debug/
+[Oo]bj/
 [Bb]in/
 packages/
 TestResults/
+
+![Oo]bj/project.assets.json
 
 # globs
 Makefile.in

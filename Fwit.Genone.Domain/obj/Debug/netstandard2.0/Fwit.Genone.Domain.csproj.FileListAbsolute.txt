@@ -16,3 +16,12 @@
 /Users/fagneroliveira/Projects/XamarinMulti/Fwit.Genone.Domain/obj/Debug/netstandard2.0/Fwit.Genone.Domain.AssemblyInfo.cs
 /Users/fagneroliveira/Projects/XamarinMulti/Fwit.Genone.Domain/obj/Debug/netstandard2.0/Fwit.Genone.Domain.dll
 /Users/fagneroliveira/Projects/XamarinMulti/Fwit.Genone.Domain/obj/Debug/netstandard2.0/Fwit.Genone.Domain.pdb
+C:\temp\XamarinMulti\Fwit.Genone.Domain\bin\Debug\netstandard2.0\Fwit.Genone.Domain.deps.json
+C:\temp\XamarinMulti\Fwit.Genone.Domain\bin\Debug\netstandard2.0\Fwit.Genone.Domain.dll
+C:\temp\XamarinMulti\Fwit.Genone.Domain\bin\Debug\netstandard2.0\Fwit.Genone.Domain.pdb
+C:\temp\XamarinMulti\Fwit.Genone.Domain\obj\Debug\netstandard2.0\Fwit.Genone.Domain.csproj.CoreCompileInputs.cache
+C:\temp\XamarinMulti\Fwit.Genone.Domain\obj\Debug\netstandard2.0\Fwit.Genone.Domain.AssemblyInfoInputs.cache
+C:\temp\XamarinMulti\Fwit.Genone.Domain\obj\Debug\netstandard2.0\Fwit.Genone.Domain.AssemblyInfo.cs
+C:\temp\XamarinMulti\Fwit.Genone.Domain\obj\Debug\netstandard2.0\Fwit.Genone.Domain.dll
+C:\temp\XamarinMulti\Fwit.Genone.Domain\obj\Debug\netstandard2.0\Fwit.Genone.Domain.pdb
+C:\temp\XamarinMulti\Fwit.Genone.Domain\obj\Debug\netstandard2.0\Fwit.Genone.Domain.csprojResolveAssemblyReference.cache
